@@ -1,4 +1,4 @@
-# preloader
+# Preloader
 preloader using html, css and JQuery
 
 # CDN Link that i used
